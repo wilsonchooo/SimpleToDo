@@ -28,7 +28,7 @@ I plan on adding support for selecting the priority of each todo item as well as
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/iAKXrW5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/iAKXrW5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
